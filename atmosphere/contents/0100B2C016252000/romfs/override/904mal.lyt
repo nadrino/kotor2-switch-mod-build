@@ -1,0 +1,11 @@
+beginlayout
+  roomcount 4
+    904MAL 0 0 0
+    904MALb 0 -133.578 0
+    904MALc 76.6783 -357.243 0
+    wk_904MALe -45.3319 -161.485 -34.3341
+  trackcount 0
+  obstaclecount 0
+  doorhookcount 0
+  othercount 0
+donelayout
